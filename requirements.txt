@@ -1,8 +1,8 @@
 streamlit==1.31.1
-yfinance
-pandas
-numpy
-scipy
+yfinance==0.2.31
+pandas==2.1.4
+numpy==1.26.2
+scipy==1.11.4
 plotly==5.18.0
 streamlit_plotly_events==0.0.6
-pyarrow
+pyarrow==14.0.1
