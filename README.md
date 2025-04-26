@@ -2,7 +2,7 @@
 
 This repository contains an interactive **Volatility Surface Visualization App**, designed to compute and visualize the implied volatility surface of options using the **Black-Scholes model**. The application allows users to explore the volatility structure across different strike prices and expiration dates dynamically. Additionally, it provides tools for analyzing **option Greeks** and tracking historical volatility surfaces over time.  
 
-🔗 https://volatilitysurf.streamlit.app/ 
+🔗 https://volatilitysurfa.streamlit.app/ 
 
 ## 📂 **Repository Contents**  
 
